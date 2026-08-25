@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "smartphones": {
+      "id": "smartphones",
+      "name": "Smartphone Specifications",
+      "status": "scaffold",
+      "source": "GSMArena / public"
+    }
+  },
+  "searchableFields": []
+}
